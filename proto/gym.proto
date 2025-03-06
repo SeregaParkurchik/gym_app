@@ -2,4 +2,4 @@ syntax = "proto3";
 
 package proto;
 
-option go_package = "";
+option go_package = "ывывы";
