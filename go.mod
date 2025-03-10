@@ -1,4 +1,4 @@
-module gym_app
+module github.com/SeregaParkurchik/gym_app
 
 go 1.22.9
 
