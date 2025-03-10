@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package proto;
 
-option go_package = "https://github.com/SeregaParkurchik/gym_app/proto/pkg/proto_v1;proto_v1";
+option go_package = "github.com/SeregaParkurchik/gym_app/proto/pkg/proto_v1;proto_v1";
 //какой пакет будет у сгенерированнхы файлов
 // https://github.com/SeregaParkurchik/gym_app/proto - здесь мы находимся
 // pkg/proto_v1 - куда будем генерировать; proto_v1 - короткое имя пакета
